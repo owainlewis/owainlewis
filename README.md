@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-owainlewis-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/owainlewis)](https://twitter.com/owainlewis)
 
-1. :office: Software Engineering Senior Manager At Oracle Cloud Infrastructure [OCI](https://www.oracle.com/cloud/).
+1. :office: Software Engineering Senior Manager at Oracle Cloud Infrastructure [OCI](https://www.oracle.com/cloud/).
 2. :speech_balloon: Ask me about engineering management, functional programming, distributed systems
 3. :heart: Haskell, Scala, OCaml, Kubernetes, Linux.
 

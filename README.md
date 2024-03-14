@@ -7,7 +7,7 @@
 3. :heart: Haskell, Scala, OCaml, Clojure, Ruby. 
 
 #### How to reach me
-- 📫 Email owain@owainlewis.com
+- Email owain@owainlewis.com
 - Website https://owainlewis.com
 - LinkedIn https://www.linkedin.com/in/owainlewis82
 - X https://twitter.com/owainlewis 

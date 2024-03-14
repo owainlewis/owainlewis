@@ -2,7 +2,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-owainlewis-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/owainlewis)](https://twitter.com/owainlewis)
 
-1. :office: Director Of Engineering at Oracle Cloud building and running multiple cloud services.
+1. :office: Director of Sofware Engineering at Oracle Cloud. 
 2. :speech_balloon: Ask me about engineering management or software engineer career coaching on [LinkedIn](https://www.linkedin.com/in/owainlewis82/). 
 3. :heart: Haskell, Scala, OCaml, Clojure, Ruby. 
 

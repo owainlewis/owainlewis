@@ -8,6 +8,7 @@
 
 #### How to reach me
 - 📫 Email owain@owainlewis.com
-- Website https://www.owainlewis.com
+- Website https://owainlewis.com
+- LinkedIn https://www.linkedin.com/in/owainlewis82
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=owainlewis&show_icons=true&count_private=true&hide_title=true)

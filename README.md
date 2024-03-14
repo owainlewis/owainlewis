@@ -3,8 +3,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-owainlewis-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/owainlewis)](https://twitter.com/owainlewis)
 
 1. :office: Director Of Engineering at Oracle Cloud Infrastructure [OCI](https://www.oracle.com/cloud/).
-2. :speech_balloon: Ask me about engineering leadership, management, functional programming, distributed systems, cloud infrastructure
-3. :heart: Haskell, Scala, OCaml, Clojure, Kubernetes, Linux.
+2. :speech_balloon: Ask me about engineering management or software engineer career coaching on [LinkedIn](https://www.linkedin.com/in/owainlewis82/). 
+3. :heart: Haskell, Scala, OCaml, Clojure, Ruby. 
 
 #### How to reach me
 - 📫 Email owain@owainlewis.com

@@ -4,7 +4,9 @@
 
 1. :office: Director of Sofware Engineering. 
 2. :speech_balloon: Ask me about engineering management or software engineer career coaching on [LinkedIn](https://www.linkedin.com/in/owainlewis82/). 
-3. :heart: Haskell, Scala, Clojure, Ruby. 
+3. :heart: Haskell, Scala, Clojure, Ruby.
+
+Join my ![exclusive free community](https://www.skool.com/engineering-leadership-academy/about) for support on your engineering leadership journey.
 
 #### How to reach me
 - Email owain@owainlewis.com

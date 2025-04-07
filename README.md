@@ -2,9 +2,9 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-owainlewis-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/owainlewis)](https://twitter.com/owainlewis)
 
-1. :office: Director of Sofware Engineering. 
-2. :speech_balloon: Ask me about engineering management or software engineer career coaching on [LinkedIn](https://www.linkedin.com/in/owainlewis82/). 
-3. :heart: Haskell, Scala, Clojure, Ruby.
+1. :office: Director of Sofware Engineering. AI Engineering, AI Automation.
+3. :speech_balloon: Ask me about engineering management or software engineer career coaching on [LinkedIn](https://www.linkedin.com/in/owainlewis82/). 
+4. :heart: Python, Clojure
 
 Join my [exclusive free community](https://www.skool.com/engineering-leadership-academy/about) for support on your engineering leadership journey.
 

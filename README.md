@@ -12,6 +12,6 @@ Join my [exclusive free community](https://www.skool.com/engineering-leadership-
 - Email owain@owainlewis.com
 - Website https://owainlewis.com
 - LinkedIn https://www.linkedin.com/in/owainlewis82
-- X https://twitter.com/owainlewis 
+- YouTube https://www.youtube.com/@owainlewis
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=owainlewis&show_icons=true&count_private=true&hide_title=true)

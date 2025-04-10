@@ -6,7 +6,7 @@
 3. :speech_balloon: Ask me about engineering management or software engineer career coaching on [LinkedIn](https://www.linkedin.com/in/owainlewis82/). 
 4. :heart: Python, Clojure
 
-Join my [newsletter](https://www.leverageai.co/subscribe) for weekly AI news and in-depth step-by-step AI Engineering and AI Automation tutorials.
+Join my [newsletter](https://leverageai.co/subscribe) for weekly AI news and in-depth step-by-step AI Engineering and AI Automation tutorials.
 
 #### How to reach me
 - Email owain@owainlewis.com

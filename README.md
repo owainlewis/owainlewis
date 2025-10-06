@@ -3,9 +3,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-owainlewis-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/owainlewis)](https://twitter.com/owainlewis)
 
 1. :office: Director of Sofware Engineering. AI Engineer, AI Automation.
-2. :speech_balloon: Ask me about AI engineering, tech leadership, or software engineering: [LinkedIn](https://www.linkedin.com/in/owainlewis82/). 
+2. :speech_balloon: Ask me about AI engineering, tech leadership, or software engineering: [LinkedIn](https://www.linkedin.com/in/lewisowain/). 
 
-Join my [newsletter](https://leverageai.co/subscribe) for weekly AI news and in-depth step-by-step AI Engineering and AI Automation tutorials.
+Join my [newsletter](https://newsletter.owainlewis.com) for weekly AI engineering articles and tutorials. 
 
 #### How to reach me
 - Email owain@owainlewis.com

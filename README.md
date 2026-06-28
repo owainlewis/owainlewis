@@ -4,6 +4,8 @@ I build and teach practical AI engineering.
 
 I'm a software engineer focused on coding agents, production AI systems, and workflows that help serious builders ship useful software with AI.
 
+Programming has been a lifelong passion. I've written code across Haskell, OCaml, Python, Ruby, Scala, Clojure, and plenty more. Now I'm using AI agents to push the boundaries of what is possible with modern coding.
+
 [YouTube](https://www.youtube.com/@owainlewis) · [AI Engineer](https://aiengineer.co) · [Newsletter](https://newsletter.owainlewis.com) · [Website](https://owainlewis.com) · [LinkedIn](https://www.linkedin.com/in/owainlewis)
 
 ## Start here

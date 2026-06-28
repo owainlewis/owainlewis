@@ -25,6 +25,7 @@ I'm a software engineer focused on coding agents, production AI systems, and wor
 - [youtube-tutorials](https://github.com/owainlewis/youtube-tutorials): free companion code and resources from my videos.
 - [blueprint](https://github.com/owainlewis/blueprint): agent skills and workflows for software development.
 - [neo](https://github.com/owainlewis/neo): a coding-agent harness and orchestration experiment.
+- [cortex](https://github.com/owainlewis/cortex): a fast, minimalist terminal code editor written in Rust.
 - [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence): curated AI courses, books, lectures, and papers.
 
 ## Contact
